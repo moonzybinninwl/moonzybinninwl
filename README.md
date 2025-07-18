@@ -6,9 +6,8 @@ Welcome to my GitHub profile. I’m a developer specializing in **C#**, **Lua**,
 
 ## 🧠 About Me
 
-- 🔬 Reverse engineer and exploit developer  
-- 🧱 Builder of internal exploits for platforms like Roblox  
-- 💡 Learning from the best — and then writing it better myself 😉
+-  Reverse engineer and exploit developer  
+-  dev of internal exploits for Roblox  🤑🤑
 
 ---
 
