@@ -21,16 +21,16 @@ Welcome to my GitHub profile. I’m a developer specializing in **C#**, **Lua**,
 
 ## Projects & Contributions
 
-### Roblox / Lua Scripts 
-- [Stellar](https://getstellar.vercel.app) – A Roblox internal with 99% UNC & 97% sUNC score  
+### Roblox / Lua Scripts   
 - [binninESP]([https://github.com/binninwl/binninESP](https://github.com/moonzybinninwl/binninESP/tree/main)) – fat esp script thx np
 
 ### C++  
 
 #### Internals & Tools  
-- [binnincore](https://github.com/moonzybinninwl/binnincore) – An early Roblox internal built while learning C++. Contributions & fixes welcome.  
+- [binnincore](https://github.com/moonzybinninwl/binnincoreV2) – An early Roblox internal built while learning C++. Contributions & fixes welcome. 
 - **binninexternal** –  walksploit and jumpsploit (Work in Progress)  
-- **binnindumper** – roblox offset dumper (Work in Progress)  
+- **binnindumper** – roblox offset dumper (Work in Progress)
+
 
 ---
 
