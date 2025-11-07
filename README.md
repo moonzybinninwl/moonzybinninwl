@@ -1,6 +1,6 @@
 # binninwl
 
-Welcome to my GitHub profile. I’m a developer specializing in **C#**, **Lua**, and **C++**, with a strong focus on tooling, exploit architecture, UI/UX, and scripting frameworks.
+Welcome to my GitHub profile. I’m a developer specializing in **C#**, **Typescript**, and **C++**, with a strong focus on tooling, exploit architecture, UI/UX, and scripting frameworks.
 
 ---
 
