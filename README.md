@@ -9,28 +9,9 @@ Welcome to my GitHub profile. I’m a developer specializing in **C#**, **Lua**,
 -  Reverse engineer and exploit developer  
 -  dev of internal exploits for Roblox  🤑🤑
 
----
-
-## Languages I develop in
-
-- **C#** – UI frameworks, desktop apps, exploit frontends (WinForms / WPF)  
-- **Lua / Luau** – Roblox environments, scripts   
-- **C++** – DLL injection, internal exploits  
-
----
-
-## Projects & Contributions
-
-### Roblox / Lua Scripts   
-- [binninESP]([https://github.com/binninwl/binninESP](https://github.com/moonzybinninwl/binninESP/tree/main)) – fat esp script thx np
-
-### C++  
-
-#### Internals & Tools  
-- [binnincore](https://github.com/moonzybinninwl/binnincoreV2) – An early Roblox internal built while learning C++. Contributions & fixes welcome. 
-- **binninexternal** –  walksploit and jumpsploit (Work in Progress)  
-- **binnindumper** – roblox offset dumper (Work in Progress)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RiisDev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="RiisDev" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiisDev&layout=compact&theme=dark"" <a/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RiisDev&show_icons=true&theme=dark"" /></p>
 
 ---
 
@@ -46,5 +27,4 @@ Need help or want to collaborate?
 Reach out on **Discord** – `binninwl_`  
 
 ---
-
-If something helped you or inspired your project, feel free to star or fork.
+If something helped you or inspired your project, feel free to star.
