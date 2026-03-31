@@ -12,6 +12,9 @@ Welcome to my GitHub profile. I’m a developer specializing in **C#**, **Typesc
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonzybinninwl&layout=compact&theme=dark"" <a/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=moonzybinninwl&show_icons=true&theme=dark"" /></p>
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moonzybinninwl&repo=Cobalt)](https://github.com/moonzybinninwl/Cobalt)
+
 ---
 
 ## Connect With Me
@@ -22,7 +25,7 @@ Welcome to my GitHub profile. I’m a developer specializing in **C#**, **Typesc
 
 ## Contact
 
-Need help or want to collaborate?  
+Need help or help or want to collaborate?  
 Reach out on **Discord** – `binninwl_`  
 
 ---
