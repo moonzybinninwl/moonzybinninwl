@@ -8,10 +8,17 @@ Welcome to my GitHub profile. I’m a developer specializing in **C#**, **Typesc
 
 -  Fullstack developer & exploit developer
 -  Developer of Roblox internal executors
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moonzybinninwl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="RiisDev" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonzybinninwl&layout=compact&theme=dark"" <a/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=moonzybinninwl&show_icons=true&theme=dark"" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=moonzybinninwl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="RiisDev" />
+</p>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonzybinninwl&layout=compact&theme=dark" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moonzybinninwl&show_icons=true&theme=dark" />
+</p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moonzybinninwl&repo=Cobalt)](https://github.com/moonzybinninwl/Cobalt)
 
